@@ -6,7 +6,7 @@ public class Ingredient {
     private double price;
     private String category;
 
-    // Constructeurs, Getters et Setters
+
     public Ingredient(int id, String name, double price, String category) {
         this.id = id;
         this.name = name;
